@@ -18,6 +18,5 @@ BRANDS = [ ]
   def size=(size)
     @size = size
   end
-
-
+  
 end
