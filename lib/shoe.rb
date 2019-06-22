@@ -16,6 +16,7 @@ BRANDS = [ ]
   
   def size=(size)
     @size = size
+      BRANDS.size == 3
   end
   
 end
